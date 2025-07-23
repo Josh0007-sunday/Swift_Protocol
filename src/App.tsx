@@ -25,7 +25,7 @@ function App() {
           <div className="flex items-center space-x-4">
             <button className="text-sm px-3 py-1 rounded border border-gray-600 bg-gray-900 text-white hover:bg-gray-800">EN</button>
             <button className="bg-white text-black px-5 py-2 rounded font-medium hover:bg-gray-100 transition-colors">
-              <a href="app-swiftprotocol.vercel.app" target="_blank" rel="noopener noreferrer">
+              <a href="app-swiftprotocol.vercel.app">
                  Launch App
               </a>
             </button>
@@ -52,7 +52,7 @@ function App() {
                   Read Documentation
                 </a>
                      <button className="bg-white text-black px-5 py-2 rounded font-medium hover:bg-gray-100 transition-colors">
-              <a href="app-swiftprotocol.vercel.app" target="_blank" rel="noopener noreferrer">
+              <a href="app-swiftprotocol.vercel.app">
                  Launch App
               </a>
             </button>
