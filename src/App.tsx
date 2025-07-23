@@ -24,7 +24,11 @@ function App() {
           </ul>
           <div className="flex items-center space-x-4">
             <button className="text-sm px-3 py-1 rounded border border-gray-600 bg-gray-900 text-white hover:bg-gray-800">EN</button>
-            <button className="bg-white text-black px-5 py-2 rounded font-medium hover:bg-gray-100 transition-colors">Launch App</button>
+            <button className="bg-white text-black px-5 py-2 rounded font-medium hover:bg-gray-100 transition-colors">
+              <a href="app-swiftprotocol.vercel.app" target="_blank" rel="noopener noreferrer">
+                 Launch App
+              </a>
+            </button>
           </div>
         </nav>
       </header>
@@ -47,9 +51,11 @@ function App() {
                 <a href="https://diagnostic-middle-7f6.notion.site/BasePay-Core-BaseBatch-Africa-1f3c7e25ebf280c58229db35a87bd23f?pvs=74" target="_blank" rel="noopener noreferrer" className="bg-white text-black px-8 py-4 rounded-lg font-semibold hover:bg-gray-100 transition-all duration-200 text-center shadow-lg">
                   Read Documentation
                 </a>
-                <button className="border border-gray-600 bg-transparent text-white px-8 py-4 rounded-lg font-semibold hover:bg-gray-900 transition-all duration-200">
-                  Launch App
-                </button>
+                     <button className="bg-white text-black px-5 py-2 rounded font-medium hover:bg-gray-100 transition-colors">
+              <a href="app-swiftprotocol.vercel.app" target="_blank" rel="noopener noreferrer">
+                 Launch App
+              </a>
+            </button>
               </div>
             </div>
             {/* Dashboard Image */}
